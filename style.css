@@ -1,0 +1,72 @@
+	body {
+		font: 15px/1.5 Arial, Helvetica, sans-serif;
+		padding: 0;
+		margin: 0;
+		background-color: #D4C6A9;
+	}
+
+	/* Global */
+	.container {
+		width: 80%;
+		margin: auto;
+		overflow: hidden;
+	}
+
+	/* Header */
+	header {
+		background-color: #050403;
+		color: #FBFBF9;
+		padding-top: 30px;
+		min-height: 70px;
+		border-bottom: #E88E18 5px solid;
+	}
+
+
+	header #logo {
+		float: left;
+	}
+
+	header #logo h1 {
+		margin: 0;
+	}
+
+	/* showcase */
+	#showcase {
+		min-height: 400px;
+		background-color: grey;
+		color: white;
+	}
+
+	/* slctfile */
+	.slctfile {
+		float: left;
+		width: 50%;
+	}
+
+	.slctfile h1 {
+		float: left;
+	}
+
+	.slctfile form {
+		float: right;
+		margin-top: 25px;
+	}
+
+	/* fileshow */
+	.fileshow {
+		float: right;
+		width: 50%;
+		background-color: white;
+		color: black;
+		text-align: center;
+		min-height: 400px;
+	}
+
+	/* btmline */
+	#btmline {
+		min-height: 70px;
+		border-top: #E88E18 5px solid;
+		padding: 15px;
+		background-color: #050403;
+		color: #E8730D;
+	}
