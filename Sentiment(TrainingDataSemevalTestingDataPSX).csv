@@ -1,0 +1,105 @@
+date,News,source,Link,Sentiment,J48,NaiveBayes,SVM/SMO,RandomForest,RandomTree
+,KAPCO privatization runs into trouble ,,,Negative,Neutral,Neutral,Neutral,Neutral,Neutral
+,Valuation rulings: ABAD threatens to suspend construction activities ,,,Negative,Neutral,Neutral,Neutral,Neutral,Neutral
+,Fertilizer subsidy announced in FY17 budget may hit snags ,,,Negative,Neutral,Neutral,Neutral,Neutral,Neutral
+,Collusive activities: CCP issues show cause notice to Pharma Bureau ,,,Negative,Neutral,Neutral,Negative,Neutral,Neutral
+,PSO has reportedly accused Ministry of Water and Power of not paying the agreed amount against furnace oil supply and Late Payment Surcharge ,,,Negative,Neutral,Positive,Positive,Neutral,Neutral
+,Trump pulls U.S. out of Pacific trade deal,,,Negative,Neutral,Neutral,Neutral,Neutral,Negative
+,NEPRA dismiss clain of extra Rs62bn collection by KEL,,,Negative,Neutral,Neutral,Neutral,Negative,Neutral
+,Pakistan will have to revive moratorium on death penalty to keep GSP Plus status intact ,,,Negative,Neutral,Neutral,Negative,Neutral,Neutral
+,7MFY17 CAD at $4.7bn (2.5% of GDP) vs $2.4b (1.5% of GDP) in SPLY ,,,Negative,Neutral,Neutral,Neutral,Neutral,Positive
+,IMF postpones Islamabad talks due to security concerns ,,,Negative,Neutral,Neutral,Neutral,Neutral,Neutral
+,Rs348bn accumulated in power sector arrears in last 3-yr ,,,Negative,Negative,Negative,Negative,Neutral,Positive
+,Trade gap widens by 35pc to $20.2bn,,,Negative,Negative,Neutral,Neutral,Positive,Positive
+,Remittances decline 2.5pc,,,Negative,Positive,Neutral,Positive,Neutral,Neutral
+,SBP snubs assemblers over criticism of 100pc cash margin on imports,,,Negative,Neutral,Neutral,Neutral,Neutral,Neutral
+,Current account deficit surges by 120pc,,,Negative,Neutral,Neutral,Neutral,Neutral,Neutral
+,Non-cash banking transactions sharply fall 29 percent in July-Feb,,,Negative,Negative,Negative,Positive,Negative,Neutral
+,Cotton production up 9.9% to 10.7m bales,,,Negative,Negative,Neutral,Neutral,Neutral,Neutral
+,"Tax collections grew by 4.4% YoY in 4MFY17, but was short of target by Rs82bn ",,,Negative,Negative,Negative,Negative,Neutral,Neutral
+,Domestic petroleum prices remain unchanged ,,,Negative,Positive,Negative,Positive,Negative,Negative
+,Date of filing tax return extended upto 15-Nov-16,,,Negative,Neutral,Neutral,Neutral,Positive,Positive
+,GSP Plus: EU team takes up targets tied to 27 Conventions ,,,Negative,Negative,Neutral,Neutral,Neutral,Neutral
+,"Wheat output est at 26mn tons for FY17, up 2% YoY  ",,,Neutral,Neutral,Negative,Negative,Neutral,Negative
+,LSM growth clocks up at 1.97% 2MFY17 ,,,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+,Govt mops up Rs90bn via MTB auction with yields on 3M paper increasing by 4bps (6M/12M unchanged) ,,,Neutral,Neutral,Neutral,Neutral,Neutral,Positive
+,GSP plus review mission to arrive on October 30 ,,,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+,"Fed holds rates steady, sets stage for December hike ",,,Neutral,Positive,Negative,Negative,Negative,Negative
+,Govt to borrow a net Rs331bn in 4QCY16 ,,,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+,"KE deal, govt to review investment & business plan before extension of support ",,,Neutral,Neutral,Neutral,Negative,Neutral,Negative
+,SBP reserves decline by $19m WoW to $19.1bn ,,,Neutral,Negative,Positive,Positive,Neutral,Neutral
+,Govt likely to renegotiate terms with KE buyers ,,,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+,No hike in gas tariff for any category of consumers ,,,Neutral,Negative,Neutral,Neutral,Neutral,Neutral
+,ECC allowed export of 0.3mn tons of Urea,,,Neutral,Negative,Negative,Negative,Negative,Positive
+,CHCC announce another expansion of 2.1mn tons,,,Neutral,Negative,Neutral,Neutral,Positive,Positive
+,"CCP fines EFOODS, Noon Pakistan and SML for marketing tea whiter as milk",,,Neutral,Negative,Neutral,Neutral,Positive,Neutral
+,SECP raises alarm bell about mkt surge ,,,Neutral,Neutral,Neutral,Neutral,Positive,Positive
+,Banks refuse to accept old-design US dollar notes ,,,Neutral,Neutral,Negative,Negative,Neutral,Neutral
+,Development spending for 7MFY17 slows down to 32% of allocation vs 44% last year ,,,Neutral,Neutral,Positive,Positive,Neutral,Positive
+,Pakistan to repay IMF first installment from 2018 ,,,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+,"APM, an British firm, to invest $400m in KPK for cement plant ",,,Neutral,Neutral,Neutral,Neutral,Neutral,Negative
+,IFC provides $145m to FrieslandCampina for EFOODS acquisition ,,,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+,Cotton production up 10.6% to 10.6m during 7MFY16 ,,,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+,Domestic debt increase to Rs14.2t by Dec?16 vs Rs12.9tn at Dec?15,,,Neutral,Neutral,Negative,Negative,Neutral,Positive
+,SECP urges PSX to protect investors ,,,Neutral,Positive,Neutral,Neutral,Positive,Neutral
+,CCoP seek early transaction of KAPCO ,,,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+,Punjab govt sings MoU with Turkish firm to set up 200MW solar power project ,,,Neutral,Negative,Positive,Neutral,Negative,Negative
+,PSMC unveiled 1.4l Ciaz ,,,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+,Govt firm up $600m from Chinese banks ,,,Neutral,Neutral,Positive,Neutral,Neutral,Positive
+,All automakers are bullish on Pakistan,,,Neutral,Neutral,Negative,Positive,Neutral,Positive
+,SNGP working on design of second LNG pipeline ,,,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+,Dar for keeping fiscal deficit within limit of 4%ÿ ,,,Neutral,Neutral,Neutral,Neutral,Neutral,Negative
+,IPPs step up drive for recovery of Rs254bn from CPPA,,,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+,"Dar launches Rs40,000 premium prize bond",,,Neutral,Neutral,Neutral,Neutral,Positive,Neutral
+,MCB privatisation case: NAB wants SC to overrule LHC?s verdict,,,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+,Pakistan Stock Exchange presents budget proposals,,,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+,Planning ministry seek Rs1tn for FY18 PSDP,,,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+,HUBC delist its GDR from Luxembourg,,,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+,4 companies bidding for $8b ML-1 (railway) up-gradation,,,Neutral,Negative,Neutral,Neutral,Neutral,Negative
+,Water and power ministry plans to convene a meeting this week to discuss resale of KE. ,,,Positive,Negative,Neutral,Neutral,Neutral,Neutral
+,ICI acquires 100% stake in Cirin Pharmaceuticals ,,,Positive,Negative,Positive,Neutral,Negative,Negative
+,ECC approves utilization of CPPs' capacity sans payment ,,,Positive,Neutral,Neutral,Neutral,Neutral,Negative
+,Coal imports expected to surge manifolds as CPEC projects coming online ,,,Positive,Neutral,Negative,Neutral,Negative,Positive
+,"Renault to roll out car assembling in Pakistan by 2018 with 50,000 unit capacity ",,,Positive,Neutral,Neutral,Neutral,Neutral,Neutral
+,Ministry Finance releases Rs26bn sales tax refunds ,,,Positive,Positive,Neutral,Neutral,Neutral,Neutral
+,Govt rasied Rs292bn vs target of Rs250bn in T-bill auction yesterday with 3M/6M yields increasing by 4bps ,,,Positive,Positive,Negative,Negative,Negative,Positive
+,The government is considering borrowing $500mn from the international market through issuance of Sukuk Bonds against Islamabad Lahore Motorway ,,,Positive,Neutral,Neutral,Positive,Neutral,Neutral
+,NRL new plant tie-in and revamping of existing plant due in Mar?17,,,Positive,Neutral,Positive,Neutral,Neutral,Neutral
+,FBR exempted customs duty on the import of 13 items including cotton and polypropylene,,,Positive,Positive,Negative,Negative,Neutral,Positive
+,PR to transport coal from Port Qasim to Sahiwal by Jan-end,,,Positive,Neutral,Neutral,Neutral,Neutral,Negative
+,"$4.1bn aid received in 1HFY17, 51% of budgeted",,,Positive,Neutral,Negative,Negative,Neutral,Neutral
+,Bike sales soar amid falling kit imports ,,,Positive,Negative,Negative,Negative,Negative,Negative
+,Scheme of amalgamation approved by MCB shareholdersÿÿ ,,,Positive,Neutral,Negative,Neutral,Neutral,Negative
+,Financing for fixed investment swell by $71bn in 1HFY17 ,,,Positive,Neutral,Neutral,Neutral,Neutral,Positive
+,NML PA joins hands with Hyundai to set up car plant ,,,Positive,Neutral,Neutral,Neutral,Neutral,Positive
+,FFBL inaugurates 118MW coal power plant ,,,Positive,Neutral,Neutral,Neutral,Neutral,Neutral
+,"SNGPL PA to install 20,000 gas meters, lay down 450km pipelines in 2017 ",,,Positive,Neutral,Negative,Neutral,Neutral,Positive
+,Qater led consortium to build 750mmcfd LNG re-gasification unit by 2018,,,Positive,Neutral,Negative,Negative,Negative,Negative
+,ADB grant $325m loan for clean energy for Punjab & KPK,,,Positive,Neutral,Neutral,Neutral,Neutral,Positive
+,PwC report says Pakistan could become the 16th largest economy by 2050 ,,,Positive,Neutral,Neutral,Neutral,Neutral,Neutral
+,Rs180bn export package notified ,,,Positive,Neutral,Neutral,Neutral,Neutral,Neutral
+,Discovery of 195bpd & 5.6mmcfd at Mardankhel-3,,,Positive,Neutral,Neutral,Neutral,Neutral,Neutral
+,1HFY17 LSM grew by 3.9% YoY ,,,Positive,Neutral,Neutral,Neutral,Negative,Negative
+,HUBC 660MW power plant upgraded to CPEC priority list ,,,Positive,Neutral,Neutral,Negative,Neutral,Neutral
+,PSX to launch derivative product within 5-6mths ,,,Positive,Neutral,Neutral,Neutral,Neutral,Positive
+,Hascol to invest US$20mn to set up new plant ,,,Positive,Neutral,Neutral,Neutral,Neutral,Negative
+,NTC notifies anti-dumping duty of 5-59% on wall and floor tiles ,,,Positive,Neutral,Negative,Negative,Neutral,Negative
+,KP govt signs 1000MW solar power project with Canadian Firm,,,Positive,Negative,Negative,Neutral,Negative,Positive
+,WAPDA finalises main contracts for Dasu Hydropower Project,,,Positive,Neutral,Neutral,Neutral,Neutral,Positive
+,FBR exempts export sectors from sales tax on fuel supply ,,,Positive,Negative,Negative,Negative,Negative,Neutral
+,KEL inks 50MW solar power purchase agreement ,,,Positive,Neutral,Neutral,Neutral,Neutral,Positive
+,GSP plus to remain intact till Dec-23 ,,,Positive,Neutral,Neutral,Neutral,Neutral,Neutral
+,SBP says urea export quota to be allocated on first-come-first-serve basis ,,,Positive,Neutral,Neutral,Neutral,Neutral,Neutral
+,NTC imposes final anti-dumping duty against imports of cotton yarn ,,,Positive,Neutral,Negative,Negative,Negative,Neutral
+,Chinese truck makers eye Pakistan as roads and market expand,,,Positive,Negative,Negative,Negative,Neutral,Negative
+,Debt of state-owned companies grows 36pc ,,,Positive,Negative,Positive,Neutral,Negative,Neutral
+7/3/2017,Pakistan gets access to high-quality solar energy maps ,,,Positive,Positive,Neutral,Neutral,Negative,Negative
+8/3/2017,Auto parts export to Vietnam begins ,business recorder ,http://fp.brecorder.com/2017/03/20170308150986/,Positive,Neutral,Neutral,Neutral,Neutral,Neutral
+12/3/2017,PPIB calls power producers to settle payment row,express tribune,https://tribune.com.pk/story/1352981/ppib-calls-power-producers-settle-payment-row/,Positive,Negative,Neutral,Neutral,Neutral,Neutral
+21/03/2017,KE's average tariff cut by Rs3.50 for seven years,dawn,https://www.dawn.com/news/1321771,Positive,Negative,Negative,Neutral,Negative,Negative
+21/03/2017,Hub coal plant construction kicks off today,dawn,https://www.dawn.com/news/1321768,Positive,Neutral,Neutral,Neutral,Positive,Neutral
+21/03/2017,SSGC ready to distribute RLNG,dawn,https://www.thenews.com.pk/print/193519-Briefs,Positive,Neutral,Neutral,Neutral,Neutral,Neutral
+4/4/2017,"Mar-17 CPI at 4.9% vs 4.2% in Feb, Mkt con. 4.9%",bma,http://res.bmacapital.com/dailyreports/SOD/PDFS/442017.PDF,Positive,Neutral,Negative,Negative,Neutral,Neutral
+,SC grants construction of Orange train,,,Positive,Negative,Neutral,Neutral,Neutral,Neutral
+1/11/2016,"S&P raises Pakistan long term credit rating from B- to B, outlook stable ",dawn,"S&P raises Pakistan rating, says outlook stable",Positive,Neutral,Positive,Neutral,Neutral,Neutral
+21/11/2016,PIA eyes fleet of 60 aircraft by 2020 ,The news ,https://www.thenews.com.pk/print/161340-PIA-eyes-fleet-of-60-aircraft,Positive,Negative,Negative,Neutral,Negative,Negative
